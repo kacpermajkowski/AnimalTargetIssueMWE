@@ -1,0 +1,6 @@
+name: AnimalTargetIssueMWE
+version: '${version}'
+
+main: pl.kacpermajkowski.animalTargetIssueMWE.AnimalTargetIssueMWE
+api-version: '26.2'
+load: POSTWORLD
